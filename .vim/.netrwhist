@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/amueller/metoo/demographer/demographer'
+let g:netrw_dirhist_2='/export/b18/xma/clir/material-1s/fairseq/add-sw-tl/clean_corpus'
+let g:netrw_dirhist_3='/export/c03/arya/bibles/src'
+let g:netrw_dirhist_4='/export/c03/amueller/xhosa-translate/adapted_model'
